@@ -9,6 +9,7 @@ import Link from "next/link";
 import UnoptimizedImage from "@/UnoptimizedImage";
 
 const Cart = () => {
+  console.log('test..')
   return (
     <div>
       <Header />

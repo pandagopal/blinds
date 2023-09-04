@@ -24,8 +24,8 @@ const Footer = () => {
                         Call Us –
                       </span>
                       <span className="phone_footer" lang="es">
-                        <Link href="tel:800-505-1905" aria-label="800-505-1905">
-                          800-505-1905
+                        <Link href="tel:425 406 7766" aria-label="425 406 7766">
+                          425 406 7766
                         </Link>
                       </span>
                     </section>

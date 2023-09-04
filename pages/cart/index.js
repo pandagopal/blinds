@@ -6,7 +6,7 @@ const index = () => {
   return (
     <section>
       <Head>
-        <title>Blinds | Card</title>
+        <title>Smartblindshub | Card</title>
         <meta
           name="description"
           content="width=device-width, initial-scale=1.0"

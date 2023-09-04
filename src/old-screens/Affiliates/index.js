@@ -9,7 +9,7 @@ const Affiliates = () => {
         <div className="affiliates-section">
           <BannerCommon
             title=""
-            offers="Earn Money with the Blinds.com Affiliate Program!"
+            offers="Earn Money with the Smartblindshub.com Affiliate Program!"
             btnSave=""
             paragraph=""
             className=""
@@ -25,15 +25,15 @@ const Affiliates = () => {
               <Link href="https://app.impact.com/campaign-promo-signup/Blindscom.brand?execution=e1s1">
                 join
               </Link>
-              the Blinds.com FREE Affiliate Program and we'll pay you cash for
-              referring them to us.
+              the Smartblindshub.com FREE Affiliate Program and we'll pay you
+              cash for referring them to us.
             </p>
             <p>
-              Our affiliate program is your opportunity to grow with Blinds.com,
-              one of the fastest growing retail sites on the Internet and one of
-              the top window coverings retailers in the world. As a member of
-              our affiliate program, that could add up to big commissions for
-              you.
+              Our affiliate program is your opportunity to grow with
+              Smartblindshub.com, one of the fastest growing retail sites on the
+              Internet and one of the top window coverings retailers in the
+              world. As a member of our affiliate program, that could add up to
+              big commissions for you.
             </p>
             <p>
               <Link href="https://app.impact.com/campaign-promo-signup/Blindscom.brand?execution=e3s1">
@@ -43,8 +43,8 @@ const Affiliates = () => {
               to our site.
             </p>
             <p>
-              The Blinds.com Affiliate Program is powered by Impact.com, the
-              company that pioneered online affiliate marketing and runs the
+              The Smartblindshub.com Affiliate Program is powered by Impact.com,
+              the company that pioneered online affiliate marketing and runs the
               largest, most successful pay-for-performance affiliate marketing
               network on the Internet. They provide the tools and services that
               make it easy for you to track and earn commissions.
@@ -66,9 +66,9 @@ const Affiliates = () => {
               </Link>
             </p>
             <p>
-              The Blinds.com Affiliate Team -
-              <Link href="mailto:affiliates@Blinds.com">
-                Affiliates@Blinds.com
+              The Smartblindshub.com Affiliate Team -
+              <Link href="mailto:affiliates@smartblindshub.com">
+                Affiliates@smartblindshub.com
               </Link>
             </p>
             <p>

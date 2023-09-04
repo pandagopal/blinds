@@ -41,7 +41,7 @@ const Faq = () => {
                       }
                       onClick={() => handleNavClick("using-blindscom")}
                     >
-                      Using Blinds.com
+                      Using Smartblindshub.com
                     </a>
                   </li>
                   <li>
@@ -106,7 +106,9 @@ const Faq = () => {
                       id="accordionFlushExample"
                     >
                       <div className="accordion-item accordion-header pt-5">
-                        <h5 className=" fw-semibold pt-1">Using Blinds.com</h5>
+                        <h5 className=" fw-semibold pt-1">
+                          Using Smartblindshub.com
+                        </h5>
                         <button
                           className="accordion-button collapsed"
                           type="button"

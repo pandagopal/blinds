@@ -16,7 +16,7 @@ const CommercialChoose = () => {
         <div className="container">
           <h4 className="fw-semibold mb-5 text-center">
             See why thousands of businesses across every industry choose
-            Blinds.com
+            Smartblindshub.com
           </h4>
           <div className="commercia-choose-box mb-5">
             <div className="text-center">
@@ -47,7 +47,7 @@ const CommercialChoose = () => {
                 loading="lazy"
               />
               <h6 className="fw-semibold">Free Shipping</h6>
-              <p>With every Blinds.com order</p>
+              <p>With every Smartblindshub.com order</p>
             </div>
             <div className="text-center">
               <UnoptimizedImage
@@ -118,8 +118,9 @@ const CommercialChoose = () => {
                     </div>
                     <p className="card-text">
                       Great bang for the buck! As a designer with clients of
-                      varying budgets, I've found Blinds.com a great go-to. Not
-                      one of my clients has been disappointed – Britt N.
+                      varying budgets, I've found Smartblindshub.com a great
+                      go-to. Not one of my clients has been disappointed – Britt
+                      N.
                     </p>
                   </div>
                 </div>
@@ -167,8 +168,8 @@ const CommercialChoose = () => {
                     </div>
                     <p className="card-text">
                       I am an interior designer/real estate stager. I have used
-                      window coverings from Blinds.com many times over the
-                      years, both for clients and in my own home. Never
+                      window coverings from Smartblindshub.com many times over
+                      the years, both for clients and in my own home. Never
                       disappointed! Highly recommend – Angie D.
                     </p>
                   </div>

@@ -4,7 +4,7 @@ const index = () => {
   return (
     <section>
       <Head>
-        <title>Blinds | Commercial</title>
+        <title>Smartblindshub | Commercial</title>
         <meta
           name="description"
           content="width=device-width, initial-scale=1.0"

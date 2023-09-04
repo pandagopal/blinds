@@ -125,17 +125,17 @@ const Inovetion = () => {
                           Our startup venture, No Brainer Blinds, became the
                           first e-commerce platform to sell a custom,
                           made-to-measure window treatments entirely online. As
-                          our company evolved into Blinds.com, we fearlessly
-                          embraced new emerging technologies with the attitude
-                          that we’d do anything it takes to deliver the best
-                          customer service. That led to product innovations like
-                          Instafit and Simplicity Shutters, allowing customers
-                          to install custom window treatments themselves easily.
-                          We adopted digital print-on-demand technology in the
-                          décor space and have been committed to reducing waste
-                          in our production processes. Recently, we developed
-                          Simply Eco Cellular Shades, an eco-friendly product
-                          made from recycled water bottles.
+                          our company evolved into Smartblindshub.com, we
+                          fearlessly embraced new emerging technologies with the
+                          attitude that we’d do anything it takes to deliver the
+                          best customer service. That led to product innovations
+                          like Instafit and Simplicity Shutters, allowing
+                          customers to install custom window treatments
+                          themselves easily. We adopted digital print-on-demand
+                          technology in the décor space and have been committed
+                          to reducing waste in our production processes.
+                          Recently, we developed Simply Eco Cellular Shades, an
+                          eco-friendly product made from recycled water bottles.
                         </p>
                       </div>
                     </div>
@@ -211,8 +211,8 @@ const Inovetion = () => {
                         Our startup venture, No Brainer Blinds, became the first
                         e-commerce platform to sell a custom, made-to-measure
                         window treatments entirely online. As our company
-                        evolved into Blinds.com, we fearlessly embraced new
-                        emerging technologies with the attitude that we’d do
+                        evolved into Smartblindshub.com, we fearlessly embraced
+                        new emerging technologies with the attitude that we’d do
                         anything it takes to deliver the best customer service.
                         That led to product innovations like Instafit and
                         Simplicity Shutters, allowing customers to install
@@ -308,8 +308,8 @@ const Inovetion = () => {
                         Our startup venture, No Brainer Blinds, became the first
                         e-commerce platform to sell a custom, made-to-measure
                         window treatments entirely online. As our company
-                        evolved into Blinds.com, we fearlessly embraced new
-                        emerging technologies with the attitude that we’d do
+                        evolved into Smartblindshub.com, we fearlessly embraced
+                        new emerging technologies with the attitude that we’d do
                         anything it takes to deliver the best customer service.
                         That led to product innovations like Instafit and
                         Simplicity Shutters, allowing customers to install

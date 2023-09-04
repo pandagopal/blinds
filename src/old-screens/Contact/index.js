@@ -134,8 +134,8 @@ const Contact = () => {
                         <p className="mb-5">
                           Mon - Fri 8am to 11pm EDT Sat - Sun 10am to 7pm EDT
                         </p>
-                        <a href="tel:800-505-1905" className="tel-800">
-                          800-505-1905
+                        <a href="tel:425 406 7766" className="tel-800">
+                          425 406 7766
                         </a>
                       </div>
                     </div>

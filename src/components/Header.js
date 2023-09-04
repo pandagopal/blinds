@@ -180,9 +180,9 @@ const Header = () => {
               <Link
                 className="navbar-brand me-2 m-0 ms-xl-2 text-uppercase"
                 href="/"
-                aria-label="Blinds.com"
+                aria-label="smartblindshub.com"
               >
-                Blinds.com
+                smartblindshub.com
               </Link>
               <button
                 className="navbar-toggler"
@@ -283,7 +283,7 @@ const Header = () => {
                                 fill="#139AD6"
                               />
                             </svg>
-                            800-505-1905
+                            425 406 7766
                           </span>
                         </p>
                       </a>

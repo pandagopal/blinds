@@ -87,7 +87,7 @@ const OrderPolicy = () => {
 
               <div className="container">
                 <div id="blindscom-guarantees">
-                  <h5>Blinds.com Guarantees</h5>
+                  <h5>Smartblindshub.com Guarantees</h5>
                   <p>
                     If you're not 100% satisfied with the style, color or
                     quality of your blind, shade or shutter, we'll work with you
@@ -122,14 +122,14 @@ const OrderPolicy = () => {
                   purchase. We are happy to change or cancel orders as long as
                   you contact us within 24 hours from the date and time the
                   order was submitted to us. Please call our Customer Service
-                  department at 800-505-1905 to process any changes or
+                  department at 425 406 7766 to process any changes or
                   cancellations. Below are some points about how we handle
                   cancellations and changes:
                 </p>
               </div>
 
               <div id="order-changes-and-refunds">
-                <h5>Blinds.com Guarantees</h5>
+                <h5>Smartblindshub.com Guarantees</h5>
                 <p>
                   If you're not 100% satisfied with the style, color or quality
                   of your blind, shade or shutter, we'll work with you to make

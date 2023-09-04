@@ -6,7 +6,7 @@ const Product = ({ data }) => {
   return (
     <section>
       <Head>
-        <title>Blinds | Product</title>
+        <title>Smartblindshub | Product</title>
         <meta
           name="description"
           content="width=device-width, initial-scale=1.0"

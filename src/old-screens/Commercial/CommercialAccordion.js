@@ -47,8 +47,8 @@ const CommercialAccordion = () => {
                   aria-expanded="false"
                   aria-controls="panelsStayOpen-collapseTwo"
                 >
-                  How to join and receive exclusive Blinds.com Pro & Trade
-                  member discounts?
+                  How to join and receive exclusive Smartblindshub.com Pro &
+                  Trade member discounts?
                 </button>
               </h2>
               <div
@@ -56,13 +56,13 @@ const CommercialAccordion = () => {
                 className="accordion-collapse collapse"
               >
                 <div className="accordion-body">
-                  Create a Blinds.com Pro & Trade account or convert your
-                  existing account to Pro & Trade. Once signed in, you are
+                  Create a Smartblindshub.com Pro & Trade account or convert
+                  your existing account to Pro & Trade. Once signed in, you are
                   eligible for our Pro & Trade only discounts. When shopping
-                  Blinds.com, add your custom window treatments to your cart as
-                  usual.When ready to checkout, or to check your total, you’ll
-                  find your 50% discount ready to apply in your cart. Just
-                  remember that you must be logged in to your Pro & Trade
+                  Smartblindshub.com, add your custom window treatments to your
+                  cart as usual.When ready to checkout, or to check your total,
+                  you’ll find your 50% discount ready to apply in your cart.
+                  Just remember that you must be logged in to your Pro & Trade
                   account for your discount to display.
                 </div>
               </div>
@@ -77,8 +77,8 @@ const CommercialAccordion = () => {
                   aria-expanded="false"
                   aria-controls="panelsStayOpen-collapseThree"
                 >
-                  Can I convert my existing Blinds.com account to a Pro & Trade
-                  account?
+                  Can I convert my existing Smartblindshub.com account to a Pro
+                  & Trade account?
                 </button>
               </h2>
               <div
@@ -146,8 +146,8 @@ const CommercialAccordion = () => {
             <h6 className="fw-semibold">Things to Know</h6>
             <p>
               If your tax-exempt certificate is from Alaska, Louisiana, or New
-              Mexico, please call us at 800-921-1668 to register your tax
-              exemption with Blinds.com. When completing
+              Mexico, please call us at 425 406 7766 to register your tax
+              exemption with Smartblindshub.com. When completing
               <b>
                 your order, you must use the same email address (case sensitive)
                 that you entered on the <Link href="#">tax exemption</Link>{" "}

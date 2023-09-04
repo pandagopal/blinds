@@ -11,7 +11,7 @@ const Sitemap = () => {
         <div className="sitemap-section  mb-5">
           <BannerCommon
             title=""
-            offers="Blinds.com Sitemap"
+            offers="Smartblindshub.com Sitemap"
             btnSave=""
             paragraph=""
             classbg="sitemap__by_section"

@@ -9,7 +9,7 @@ const Privacy = () => {
         <div className="privacy-policy-section">
           <BannerCommon
             title=""
-            offers="Blinds.com Privacy Policy"
+            offers="Smartblindshub.com Privacy Policy"
             btnSave=""
             paragraph=""
             classbg="privacy-policy_by_section"
@@ -22,9 +22,11 @@ const Privacy = () => {
           <div className="container">
             <div className="mb-5">
               <div>
-                <h2 className="fw-semibold mb-3">Blinds.com Privacy Policy</h2>
+                <h2 className="fw-semibold mb-3">
+                  Smartblindshub.com Privacy Policy
+                </h2>
                 <p>
-                  At Blinds.com, we value and respect the privacy of our
+                  At Smartblindshub.com, we value and respect the privacy of our
                   customers and visitors. In the course of operating our
                   business and interacting with you, we collect, use, and
                   disclose personal information. We do so to process and fulfill
@@ -45,9 +47,9 @@ const Privacy = () => {
                 <h4 className="fw-semibold">About This Policy</h4>
                 <p>
                   This Privacy Policy describes the privacy practices of
-                  Blinds.com. It applies to the information we collect in
-                  association with your interactions with us, including, but not
-                  limited to:
+                  Smartblindshub.com. It applies to the information we collect
+                  in association with your interactions with us, including, but
+                  not limited to:
                 </p>
                 <ul>
                   <li>Use of our websites, including mobile websites</li>

@@ -5,17 +5,7 @@ import {
   trackWindowScroll,
 } from "react-lazy-load-image-component";
 import "react-lazy-load-image-component/src/effects/blur.css";
-import { manageProductList } from "@/src/Redux/actions/products";
-import { useDispatch, useSelector } from "react-redux";
 const Blind = () => {
-  const distpatch = useDispatch();
-  const list = useSelector((state) => state?.products?.list);
-  useEffect(() => {
-    distpatch(manageProductList());
-  }, []);
-
-  console.log(list, "list==>");
-
   return (
     <section>
       <div className="blind-sec">
@@ -33,18 +23,19 @@ const Blind = () => {
               <p className="p-0 m-0 about_company_pre">
                 <sup>__</sup>About Your Company
               </p>
-              <h2 className="fw-bold fs-1 mb-2">Blinds.com</h2>
+              <h2 className="fw-bold fs-1 mb-2">Smartblindshub.com</h2>
               <p>
-                Blinds.com is part of Global Custom Commerce (GCC), GCC is the
-                largest pure play ecommerce retailer in the configurable home
-                décor space, powering The Home Depot and our window covering
-                brands. We are committed to continuously improving the shopping
-                experience for customers, leading the way with innovations that
-                have shifted what’s possible both online and inside
-                brick-and-mortar stores. Blinds.com makes ordering custom
-                blinds, shades, shutters and draperies surprisingly easy with
-                over 30,000 five-star reviews, award-winning customer service,
-                SureFit Guarantee and in-home measure and installation services.
+                Smartblindshub.com is part of Global Custom Commerce (GCC), GCC
+                is the largest pure play ecommerce retailer in the configurable
+                home décor space, powering The Home Depot and our window
+                covering brands. We are committed to continuously improving the
+                shopping experience for customers, leading the way with
+                innovations that have shifted what’s possible both online and
+                inside brick-and-mortar stores. Smartblindshub.com makes
+                ordering custom blinds, shades, shutters and draperies
+                surprisingly easy with over 30,000 five-star reviews,
+                award-winning customer service, SureFit Guarantee and in-home
+                measure and installation services.
               </p>
               <div className="row w-100">
                 <div className="col-12 col-sm-12 col-md-6 col-lg-6 fw-semibold">

@@ -7,7 +7,7 @@ const index = ({ data }) => {
   return (
     <section>
       <Head>
-        <title>Blinds | Custom Product </title>
+        <title>Smartblindshub | Custom Product </title>
         <meta
           name="description"
           content="width=device-width, initial-scale=1.0"

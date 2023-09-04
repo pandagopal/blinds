@@ -1,7 +1,7 @@
 import Link from "next/link";
-import product from "@/assets/images/category+online-shopping.webp";
-import product_img from "@/assets/images/online-shoping-banner.webp";
-import cta__bg from "@/assets/images/shop-gear.webp";
+import product from "@/assets/images/home_page/category_online_shopping.jpg";
+import product_img from "@/assets/images/home_page/products_banner.jpg";
+import cta__bg from "@/assets/images/home_page/products_catgoery.jpg";
 import UnoptimizedImage from "@/UnoptimizedImage";
 
 const ShopGearOnline = () => {

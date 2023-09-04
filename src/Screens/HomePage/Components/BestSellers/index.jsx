@@ -1,5 +1,5 @@
 import Link from "next/link";
-import product from "@/assets/images/product_image.webp";
+import product from "@/assets/images/home_page/product_image.jpg";
 import UnoptimizedImage from "@/UnoptimizedImage";
 
 const BestSallers = () => {

@@ -1,5 +1,5 @@
-import category from "@/assets/images/category+online-shopping.webp";
-import categorybg from "@/assets/images/category-banner.webp";
+import category from "@/assets/images/home_page/category_online_shopping.jpg";
+import categorybg from "@/assets/images/home_page/category-banner.jpg";
 import UnoptimizedImage from "@/UnoptimizedImage";
 
 const CategoryShop = () => {

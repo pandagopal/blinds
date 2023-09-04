@@ -11,6 +11,8 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { useEffect, useState } from "react";
+import sqlImages from "@/assets/images/details_page/sqlImages.jpg"
+import banner_image from "@/assets/images/details_page/banner_image.jpg"
 
 const DesignBlinds = ({ productDetails, getDetails, data }) => {
   const [nav1, setNav1] = useState(null);
@@ -45,37 +47,37 @@ const DesignBlinds = ({ productDetails, getDetails, data }) => {
   const slidesData = [
     {
       id: 1,
-      img: "https://www.blinds.com/SqlImages/d6506145-3958-ec11-949a-0a986990730e.jpg?quality=90&format=jpg&mode=max&&width=864&height=680",
+      img: sqlImages.src,
       alt: "Image 1",
     },
     {
       id: 2,
-      img: "https://www.blinds.com/SqlImages/6a0681ed-3858-ec11-949a-0a986990730e.jpg?quality=90&format=jpg&mode=max&&width=864&height=680",
+      img: banner_image.src,
       alt: "Image 2",
     },
     {
       id: 3,
-      img: "https://www.blinds.com/SqlImages/0d74b5ce-3858-ec11-949a-0a986990730e.jpg?quality=90&format=jpg&mode=max&&width=864&height=680",
+      img: sqlImages.src,
       alt: "Image 3",
     },
     {
       id: 4,
-      img: "https://www.blinds.com/SqlImages/8447b060-3958-ec11-949a-0a986990730e.jpg?quality=90&format=jpg&mode=max&&width=864&height=680",
+      img: banner_image.src,
       alt: "Image 4",
     },
     {
       id: 5,
-      img: "https://www.blinds.com/SqlImages/ee16d5db-8b01-ee11-94a4-0a986990730e.jpg?quality=90&format=jpg&mode=max&&width=864&height=680",
+      img: sqlImages.src,
       alt: "Image 5",
     },
     {
       id: 6,
-      img: "https://www.blinds.com/SqlImages/062b394e-9ef4-e811-9472-0a986990730e.jpg?quality=90&format=jpg&mode=max&&width=864&height=680",
+      img: banner_image.src,
       alt: "Image 6",
     },
     {
       id: 7,
-      img: "https://www.blinds.com/SqlImages/0c0ec51e-78e3-ed11-94a3-0a986990730e.jpg?quality=90&format=jpg&mode=max&&width=864&height=680",
+      img: sqlImages.src,
       alt: "Image 6",
     },
   ];

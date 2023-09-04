@@ -1,11 +1,27 @@
+import cord from "@/assets/images/details_page/cord.jpg";
+import wand from "@/assets/images/details_page/wand.jpg";
+import cordless from "@/assets/images/details_page/cordless.jpg";
+import ringpull from "@/assets/images/details_page/ringpull.jpg";
+import nocontrolpole from "@/assets/images/details_page/nocontrolpole.jpg";
+import controlpole from "@/assets/images/details_page/controlpole.jpg";
+import controlspole from "@/assets/images/details_page/controlspole.jpg";
+import standard from "@/assets/images/details_page/standard.jpg";
+import privacyslats from "@/assets/images/details_page/privacyslats.jpg";
+import clothtapes from "@/assets/images/details_page/clothtapes.jpg";
+import standardheadrail from "@/assets/images/details_page/standardheadrail.jpg";
+import twostandard from "@/assets/images/details_page/twostandard.jpg";
+import standardvalance from "@/assets/images/details_page/standardvalance.jpg";
+import eloquencevalance from "@/assets/images/details_page/eloquencevalance.jpg";
+import holddowns from "@/assets/images/details_page/holddowns.jpg";
+import standardcar from "@/assets/images/details_page/standardcar.jpg";
+
 export const constrols = [
   {
     id: 1,
     title: "Cord",
     description:
       "Cords are a standard lift choice. Corded products have multiple free-hanging pull cords and are not recommended in homes with children and pets.",
-    image:
-      "https://www.blinds.com/product-images/e676a4a2-fcff-e911-9476-0a986990730e.jpg",
+    image: cord.src,
     price: null,
     offPrice: null,
     child_controls: [
@@ -23,8 +39,7 @@ export const constrols = [
                 price: null,
                 offPrice: null,
                 block_light_id: 2,
-                image:
-                  "https://www.blinds.com/product-images/d1868f0f-dcff-e911-9476-0a986990730e.jpg",
+                image: wand.src,
               },
               {
                 id: 2,
@@ -34,8 +49,7 @@ export const constrols = [
                 price: null,
                 offPrice: null,
                 block_light_id: 1,
-                image:
-                  "https://www.blinds.com/product-images/e676a4a2-fcff-e911-9476-0a986990730e.jpg",
+                image: cord.src,
                 child_controls: [],
               },
               {
@@ -46,8 +60,7 @@ export const constrols = [
                 price: null,
                 offPrice: null,
                 block_light_id: 1,
-                image:
-                  "https://www.blinds.com/product-images/f72d126e-6b0d-ea11-9476-0a986990730e.jpg",
+                image: ringpull.src,
                 child_controls: [],
                 extended_control_pool_id: 1,
               },
@@ -62,8 +75,7 @@ export const constrols = [
     title: "Ring Pull",
     description:
       "Ring Pull is a corded product without long dangling cords.  There is a ring attached to the pull cord and can be used with a control pole.",
-    image:
-      "https://www.blinds.com/product-images/f72d126e-6b0d-ea11-9476-0a986990730e.jpg",
+    image: ringpull.src,
     price: "10.36",
     offPrice: "14.80",
     child_controls: [
@@ -81,8 +93,7 @@ export const constrols = [
                 price: null,
                 offPrice: null,
                 block_light_id: 2,
-                image:
-                  "https://www.blinds.com/product-images/d1868f0f-dcff-e911-9476-0a986990730e.jpg",
+                image: wand.src,
               },
               {
                 id: 2,
@@ -92,8 +103,7 @@ export const constrols = [
                 price: null,
                 offPrice: null,
                 block_light_id: 1,
-                image:
-                  "https://www.blinds.com/product-images/e676a4a2-fcff-e911-9476-0a986990730e.jpg",
+                image: cord.src,
                 child_controls: [],
               },
               {
@@ -104,8 +114,7 @@ export const constrols = [
                 price: null,
                 offPrice: null,
                 block_light_id: 2,
-                image:
-                  "https://www.blinds.com/product-images/f72d126e-6b0d-ea11-9476-0a986990730e.jpg",
+                image: ringpull.src,
                 child_controls: [],
               },
             ],
@@ -124,8 +133,7 @@ export const constrols = [
                 description: "",
                 price: null,
                 offPrice: null,
-                image:
-                  "https://www.blinds.com/product-images/0a8798d2-d311-e811-946d-0a986990730e.jpg",
+                image: nocontrolpole.src,
               },
               {
                 id: 2,
@@ -133,8 +141,7 @@ export const constrols = [
                 description: "",
                 price: "15.29",
                 offPrice: "25.48",
-                image:
-                  "https://www.blinds.com/product-images/5b1ad3f3-0e5a-e411-9457-0e6de736083d.jpg",
+                image: controlpole.src,
               },
               {
                 id: 3,
@@ -142,8 +149,7 @@ export const constrols = [
                 description: "",
                 price: "25.18",
                 offPrice: "41.97",
-                image:
-                  "https://www.blinds.com/product-images/5b1ad3f3-0e5a-e411-9457-0e6de736083d.jpg",
+                image: controlpole.src,
               },
             ],
           },
@@ -156,8 +162,7 @@ export const constrols = [
     title: "Cordless",
     description:
       "Cordless blinds are the peak in style and function. They are the safer choice for homes with children and pets.",
-    image:
-      "https://www.blinds.com/product-images/023538af-daff-e911-9476-0a986990730e.jpg",
+    image: cordless.src,
     price: "40.80",
     offPrice: "58.28",
     child_controls: [
@@ -175,8 +180,7 @@ export const constrols = [
                 price: null,
                 offPrice: null,
                 block_light_id: 2,
-                image:
-                  "https://www.blinds.com/product-images/d1868f0f-dcff-e911-9476-0a986990730e.jpg",
+                image: wand.src,
               },
               {
                 id: 2,
@@ -186,8 +190,7 @@ export const constrols = [
                 price: null,
                 offPrice: null,
                 block_light_id: 1,
-                image:
-                  "https://www.blinds.com/product-images/e676a4a2-fcff-e911-9476-0a986990730e.jpg",
+                image: cord.src,
                 child_controls: [],
               },
               {
@@ -197,8 +200,7 @@ export const constrols = [
                   "Ring Tilt will have a small ring attached to the tilter instead of a wand. A control pole can be used to tilt your blind.",
                 price: null,
                 offPrice: null,
-                image:
-                  "https://www.blinds.com/product-images/f72d126e-6b0d-ea11-9476-0a986990730e.jpg",
+                image: ringpull.src,
                 child_controls: [],
                 extended_control_pool_id: 1,
               },
@@ -221,8 +223,7 @@ export const extendedControlPole = [
         description: ``,
         price: null,
         offPrice: null,
-        image:
-          "https://www.blinds.com/product-images/0a8798d2-d311-e811-946d-0a986990730e.jpg",
+        image: nocontrolpole.src,
       },
       {
         id: 2,
@@ -230,8 +231,7 @@ export const extendedControlPole = [
         description: ``,
         price: "15.29",
         offPrice: "25.48",
-        image:
-          "https://www.blinds.com/product-images/5b1ad3f3-0e5a-e411-9457-0e6de736083d.jpg",
+        image: controlpole.src,
       },
       {
         id: 3,
@@ -239,8 +239,7 @@ export const extendedControlPole = [
         description: ``,
         price: "25.18",
         offPrice: "41.97",
-        image:
-          "https://www.blinds.com/product-images/5b1ad3f3-0e5a-e411-9457-0e6de736083d.jpg",
+        image: controlspole.src,
       },
     ],
   },
@@ -257,8 +256,7 @@ export const titlBlockLight = [
         description: `A standard slat will have small holes that allow light to pass through. Upgrade to a product with privacy slats if you are looking for more light control.`,
         price: null,
         offPrice: null,
-        image:
-          "https://www.blinds.com/product-images/ebc0d254-a40f-ea11-9476-0a986990730e.jpg",
+        image: standard.src,
       },
       {
         id: 2,
@@ -266,8 +264,7 @@ export const titlBlockLight = [
         description: `Privacy slats reduce the light that passes through a closed blind. A great choice for a classic look with enhanced light control. Not recommended when mounting on a door.`,
         price: "10.50",
         offPrice: null,
-        image:
-          "https://www.blinds.com/product-images/bdd35a67-a40f-ea11-9476-0a986990730e.jpg",
+        image: privacyslats.src,
         child_controls: [],
       },
       {
@@ -276,8 +273,7 @@ export const titlBlockLight = [
         description: `Cloth tape adds style and minimizes the light that can pass through a closed blind. Coordinate to your room design to achieve just the look you want.`,
         price: "10.50",
         offPrice: null,
-        image:
-          "https://www.blinds.com/product-images/7db06c31-a40f-ea11-9476-0a986990730e.jpg",
+        image: clothtapes.src,
         child_controls: [],
       },
     ],
@@ -292,8 +288,7 @@ export const titlBlockLight = [
         description: `A standard slat will have small holes that allow light to pass through. Upgrade to a product with privacy slats if you are looking for more light control.`,
         price: null,
         offPrice: null,
-        image:
-          "https://www.blinds.com/product-images/ebc0d254-a40f-ea11-9476-0a986990730e.jpg",
+        image: standard.src,
       },
       {
         id: 2,
@@ -301,8 +296,7 @@ export const titlBlockLight = [
         description: `Privacy slats reduce the light that passes through a closed blind. A great choice for a classic look with enhanced light control. Not recommended when mounting on a door.`,
         price: "10.50",
         offPrice: null,
-        image:
-          "https://www.blinds.com/product-images/bdd35a67-a40f-ea11-9476-0a986990730e.jpg",
+        image: privacyslats.src,
         child_controls: [],
       },
       {
@@ -311,8 +305,7 @@ export const titlBlockLight = [
         description: `Cloth tape adds style and minimizes the light that can pass through a closed blind. Coordinate to your room design to achieve just the look you want.`,
         price: "10.50",
         offPrice: null,
-        image:
-          "https://www.blinds.com/product-images/7db06c31-a40f-ea11-9476-0a986990730e.jpg",
+        image: clothtapes.src,
         child_controls: [],
       },
     ],
@@ -329,8 +322,7 @@ export const headrailStyle = {
       price: null,
       offPrice: null,
       description: "",
-      image:
-        "https://www.blinds.com/product-images/2b50926f-6b02-ea11-9476-0a986990730e.jpg?height=178&width=120",
+      image: standardheadrail.src,
       child_controls: [
         {
           id: 1,
@@ -339,8 +331,7 @@ export const headrailStyle = {
             {
               id: 1,
               title: "Control Position",
-              image:
-                "https://www.blinds.com/product-images/d1868f0f-dcff-e911-9476-0a986990730e.jpg",
+              image: wand.src,
               price: null,
               offPrice: null,
               description: "",
@@ -359,8 +350,7 @@ export const headrailStyle = {
       price: "31.48",
       offPrice: "52.46",
       description: "",
-      image:
-        "https://www.blinds.com/product-images/e067897f-6b02-ea11-9476-0a986990730e.jpg?height=178&width=120",
+      image: twostandard.src,
       child_controls: [
         {
           id: 1,
@@ -369,8 +359,7 @@ export const headrailStyle = {
             {
               id: 1,
               title: "Left Blind",
-              image:
-                "https://www.blinds.com/product-images/d1868f0f-dcff-e911-9476-0a986990730e.jpg",
+              image: wand.src,
               price: null,
               offPrice: null,
               description: "",
@@ -382,8 +371,7 @@ export const headrailStyle = {
             {
               id: 2,
               title: "Right Blind",
-              image:
-                "https://www.blinds.com/product-images/d1868f0f-dcff-e911-9476-0a986990730e.jpg",
+              image: wand.src,
               price: null,
               offPrice: null,
               description: "",
@@ -426,16 +414,14 @@ export const valanceControls = [
         title: `3" Standard Valance`,
         price: null,
         offPrice: null,
-        image:
-          "https://www.blinds.com/product-images/6b3d1b04-32a9-e311-81ba-bf5a69d872ac.jpg",
+        image: standardvalance.src,
       },
       {
         id: 2,
         title: `3 1/4" Eloquence Valance`,
         price: null,
         offPrice: null,
-        image:
-          "https://www.blinds.com/product-images/fb3277b9-81c5-e311-a64d-84df7b46b4ac.jpg",
+        image: eloquencevalance.src,
       },
     ],
   },
@@ -452,8 +438,7 @@ export const extrasControls = [
           "Hold down brackets are a must if installing onto a door. They hold the bottom of the blind against the door.",
         price: null,
         offPrice: null,
-        image:
-          "https://www.blinds.com/product-images/2f73e62d-daaa-e311-883c-8e25100097a5.jpg",
+        image: holddowns.src,
       },
     ],
   },
@@ -469,8 +454,7 @@ export const shippingMethods = [
         description: "",
         price: null,
         offPrice: null,
-        image:
-          "https://www.blinds.com/product-images/1af1f192-7783-e311-8ff0-aeaeea688aa9.png",
+        image: standardcar.src,
       },
     ],
   },

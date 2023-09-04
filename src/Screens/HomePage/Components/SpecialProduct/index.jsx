@@ -1,6 +1,6 @@
 import Link from "next/link";
-import product from "@/assets/images/product_image.webp";
-import bgProduct from "@/assets/images/news+products.webp";
+import product from "@/assets/images/home_page/product_image.jpg";
+import bgProduct from "@/assets/images/home_page/products_banner.jpg";
 import UnoptimizedImage from "@/UnoptimizedImage";
 
 const SpecialProduct = () => {

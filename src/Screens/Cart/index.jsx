@@ -6,10 +6,9 @@ import BannerCommon from "@/src/components/BannerCommon";
 import Layout from "@/src/components/Layout";
 import shopping from "@/assets/images/shopping-cart.webp";
 import Link from "next/link";
-import UnoptimizedImage from "@/UnoptimizedImage";
+import UnoptimizedImage from "@/  ";
 
 const Cart = () => {
-  console.log('test..')
   return (
     <div>
       <Header />

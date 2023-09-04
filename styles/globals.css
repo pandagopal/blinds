@@ -228,7 +228,7 @@ body {
 
 /* bg-image  start*/
 .bg_by_image {
-  background-image: url(../assets/images/bg-banner-img.webp);
+  background-image: url(../assets/images/home_page/bg_banner_img.jpg);
   background-position: center center;
   background-size: cover;
   height: 580px;
@@ -629,7 +629,7 @@ body {
 
 /* footer start */
 .top_main_section {
-  background-image: url(../assets/images/bg-banner-img.webp);
+  background-image: url(../assets/images/home_page/bg_banner_img.jpg);
   background-position: center center;
   background-size: cover;
   height: 380px;

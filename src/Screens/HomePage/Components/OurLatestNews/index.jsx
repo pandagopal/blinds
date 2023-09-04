@@ -1,5 +1,5 @@
-import product from "@/assets/images/product_image.webp";
-import category from "@/assets/images/news+products.webp";
+import product from "@/assets/images/home_page/product_image.jpg";
+import category from "@/assets/images/home_page/products_banner.jpg";
 import Link from "next/link";
 import UnoptimizedImage from "@/UnoptimizedImage";
 import rightarrow from "@/assets/images/right-arrow.svg";

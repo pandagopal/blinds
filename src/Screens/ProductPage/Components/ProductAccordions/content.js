@@ -1,3 +1,5 @@
+import grey from "@/assets/images/colors_page/grey.jpg";
+
 export const product_colors = [
   {
     id: 1,
@@ -8,112 +10,98 @@ export const product_colors = [
         color_code: "#dddfff",
         name: "Red",
         price: 15.25,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 2,
         color_code: "#dddf22",
         name: "Yellow SCC26666",
         price: 10.15,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 3,
         color_code: "#0d1aca",
         name: "Blue SCC26666",
         price: 14.25,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 4,
         color_code: "#858dfc",
         name: "Light Blue SCC26666",
         price: 12.1,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 6,
         color_code: "#d66a17",
         name: "Dark Orange SCC26666",
         price: 25.15,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 7,
         color_code: "#5cdb35",
         name: "Parrot Green SCC26666",
         price: 13.15,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 8,
         color_code: "#e50c30",
         name: "Red SCC26666",
         price: 16.45,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 9,
         color_code: "#0cade8",
         name: "Sky Blue SCC26666",
         price: 24.27,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 10,
         color_code: "#0cade8",
         name: "Sky Blue SCC26666",
         price: 24.27,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 11,
         color_code: "#0cade8",
         name: "Sky Blue SCC26666",
         price: 24.27,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 12,
         color_code: "#0cade8",
         name: "Sky Blue SCC26666",
         price: 24.27,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 13,
         color_code: "#0cade8",
         name: "Sky Blue SCC26666",
         price: 24.27,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 14,
         color_code: "#0cade8",
         name: "Sky Blue SCC26666",
         price: 24.27,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 15,
         color_code: "#0cade8",
         name: "Sky Blue SCC26666",
         price: 24.27,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
     ],
   },
@@ -126,64 +114,56 @@ export const product_colors = [
         color_code: "#dddfff",
         name: "Green",
         price: 15.25,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 17,
         color_code: "#dddf22",
         name: "Yellow SCC26666",
         price: 10.15,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 18,
         color_code: "#0d1aca",
         name: "Blue SCC26666",
         price: 14.25,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 19,
         color_code: "#858dfc",
         name: "Light Blue SCC26666",
         price: 12.1,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 20,
         color_code: "#d66a17",
         name: "Dark Orange SCC26666",
         price: 25.15,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 21,
         color_code: "#5cdb35",
         name: "Parrot Green SCC26666",
         price: 13.15,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 22,
         color_code: "#e50c30",
         name: "Red SCC26666",
         price: 16.45,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
       {
         id: 23,
         color_code: "#0cade8",
         name: "Sky Blue SCC26666",
         price: 24.27,
-        image:
-          "https://www.blinds.com/product-images/089d979b-7ceb-ea11-9482-0a986990730e.jpg?width=130&height=130&mode=crop&scale=both",
+        image: grey.src,
       },
     ],
   },
